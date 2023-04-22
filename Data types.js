@@ -1,26 +1,21 @@
-var myname="Sparsh"
-console.log(myname)
-var no=44
-console.log(no)
-//type of operator
+var myname="MY";
+console.log(myname);
+
+//typeof operator
 console.log(typeof(myname))
-console.log(typeof(no))
 
-var iamsparsh= true
-console.log(iamsparsh)
-console.log(typeof(iamsparsh))
-console.log(typeof(sparsh))  // undefined
+var myage=24;
+console.log(myage);
+console.log(typeof(myage));
 
+var iamt=true;
+console.log(iamt);
+console.log(typeof(iamt));
 
-console.log(10+"20")  //1020 concatenate
-console.log(9-"5")  // 4 bug
-console.log("Java " + "Script"); //Java Script
-console.log(""+"") //blank
-console.log("Spa"-"See")  //NaN not a number
+//String + string = concatenation
+//Number + string = concatentation
+// Number - String = Number ((((BUG))))
+// String - String = NaN ((Not a Number))
 
-// In javascript 1 represents true
-// and 0 represents false
-console.log(true +true) //2 (1+1)
-console.log(true+false) //1
-console.log(false+true) //1
-console.log(false+false) //0
+// True + True = 2;
+//becoz True =1  False=0;
