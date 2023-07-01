@@ -8,7 +8,6 @@
 // conditional (ternary) operator 
    
 
-
 // If ... Else
 //The if statement executes a statement if a specified condition is truthy 
 // If the comdition is falsy another statement can be executed
